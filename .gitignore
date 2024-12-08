@@ -1,3 +1,4 @@
 input/
 venv/
 model.py
+.idea/
